@@ -1,3 +1,15 @@
+## Jest to mój pierwszy projekt WebDeveloperski. Jak podepnę baze danych wrzuce apke na serwer.
+
+### Aby odpalić strone najlepiej włączyć serwer na localhost:3000. a apke na 3001. Działa tylko rejestracja, logowanie zadziała jak uda mi sie to połaczyć z baza danych sql.
+
+####Widze też, że Api ma problemy z wyszukiwaniem twarzy na małych zdjęciach.(od 500px działa swietnie.)
+
+![widok glowny](./photo/photo1.jpg) 
+
+![rejestracja](./photo/photo2.jpg) 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
